@@ -1,0 +1,3 @@
+term_code,description
+NET_30,Payment due 30 days after invoice date
+NET_45,Payment due 45 days after invoice date

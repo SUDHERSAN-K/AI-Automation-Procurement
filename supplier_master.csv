@@ -1,0 +1,51 @@
+supplier_id,company_name,jurisdiction_code,company_number,payment_terms,currency_code,capacity_tpy,created_at,updated_at,reach_compliant,conflict_minerals
+1,"Superior Pipe Fittings, Inc.",us_tx,12345678,NET_30,USD,3500,2025-05-10,2025-05-10,True,True
+2,Midwest Cryogenic Fabrication LLC,us_la,87654321,NET_30,USD,4200,2025-05-10,2025-05-10,True,False
+3,Gulf Coast Nickel Alloys Inc.,us_al,23456789,NET_45,USD,2800,2025-05-10,2025-05-10,True,True
+4,CryoSteel Services LLC,us_tx,98765432,NET_30,USD,3000,2025-05-10,2025-05-10,False,False
+5,Deep South Pipe & Tube Co.,us_la,34567890,NET_30,USD,5000,2025-05-10,2025-05-10,True,True
+6,Alamo Cryogenics Inc.,us_tx,45678901,NET_45,USD,2600,2025-05-10,2025-05-10,False,True
+7,Appalachian Pipe Fabricators,us_ms,56789012,NET_30,USD,3200,2025-05-10,2025-05-10,True,False
+8,"Smith, Cain and Davis Pipe & Tube",us_al,40510327,NET_45,USD,5753,2025-05-10,2025-05-10,True,True
+9,"Turner, Conner and Jackson Pipe & Tube",us_al,84647334,NET_45,USD,1779,2025-05-10,2025-05-10,True,False
+10,Powell-Schmidt Pipe & Tube,us_ms,23080120,NET_45,USD,4540,2025-05-10,2025-05-10,True,False
+11,Williams-Sutton Pipe & Tube,us_ms,56874886,NET_45,USD,2061,2025-05-10,2025-05-10,True,True
+12,Benton-Reese Pipe & Tube,us_ms,90354762,NET_45,USD,3623,2025-05-10,2025-05-10,True,True
+13,Leon Inc Pipe & Tube,us_al,94366779,NET_30,USD,1697,2025-05-10,2025-05-10,True,True
+14,Morris Group Pipe & Tube,us_la,44443193,NET_45,USD,4925,2025-05-10,2025-05-10,True,True
+15,Miller-Hayes Pipe & Tube,us_ms,55346757,NET_30,USD,1232,2025-05-10,2025-05-10,True,True
+16,"Berry, Hall and Collins Pipe & Tube",us_al,20843342,NET_45,USD,5744,2025-05-10,2025-05-10,False,False
+17,"Hughes, Howe and Snyder Pipe & Tube",us_tx,23433303,NET_45,USD,1488,2025-05-10,2025-05-10,True,True
+18,Fleming-Murray Pipe & Tube,us_al,40062401,NET_45,USD,3475,2025-05-10,2025-05-10,True,False
+19,"Love, Clarke and Sanchez Pipe & Tube",us_ms,80733677,NET_45,USD,4312,2025-05-10,2025-05-10,True,True
+20,"Gibson, Carlson and Johnson Pipe & Tube",us_la,13150733,NET_45,USD,1924,2025-05-10,2025-05-10,False,False
+21,Rodriguez-Lopez Pipe & Tube,us_la,34703674,NET_45,USD,5474,2025-05-10,2025-05-10,True,False
+22,Hutchinson Group Pipe & Tube,us_ms,10286111,NET_45,USD,1979,2025-05-10,2025-05-10,True,True
+23,Ward-Cortez Pipe & Tube,us_ms,31137970,NET_30,USD,2356,2025-05-10,2025-05-10,False,True
+24,Richardson-Gonzales Pipe & Tube,us_ms,20978116,NET_45,USD,3713,2025-05-10,2025-05-10,True,False
+25,Reed Group Pipe & Tube,us_tx,18994511,NET_30,USD,5934,2025-05-10,2025-05-10,True,True
+26,"Smith, Jimenez and Hunt Pipe & Tube",us_ms,69199697,NET_30,USD,5077,2025-05-10,2025-05-10,True,False
+27,Delgado PLC Pipe & Tube,us_tx,42694051,NET_30,USD,1370,2025-05-10,2025-05-10,True,True
+28,Potts Group Pipe & Tube,us_al,97520450,NET_30,USD,4116,2025-05-10,2025-05-10,True,True
+29,Lin Group Pipe & Tube,us_al,94874576,NET_45,USD,2625,2025-05-10,2025-05-10,True,True
+30,"Hernandez, Cruz and Bruce Pipe & Tube",us_al,71393215,NET_30,USD,3361,2025-05-10,2025-05-10,True,False
+31,Jackson-Martinez Pipe & Tube,us_tx,12185935,NET_30,USD,3806,2025-05-10,2025-05-10,True,True
+32,Hall Inc Pipe & Tube,us_tx,33620345,NET_30,USD,3137,2025-05-10,2025-05-10,True,True
+33,Ruiz-Sherman Pipe & Tube,us_al,60264985,NET_45,USD,4182,2025-05-10,2025-05-10,True,True
+34,Smith-Harding Pipe & Tube,us_la,12570855,NET_30,USD,2246,2025-05-10,2025-05-10,True,False
+35,Pham PLC Pipe & Tube,us_ms,44282434,NET_30,USD,1384,2025-05-10,2025-05-10,True,True
+36,Velez-Foster Pipe & Tube,us_la,35363145,NET_45,USD,5040,2025-05-10,2025-05-10,True,False
+37,Cooper-Cross Pipe & Tube,us_ms,47897409,NET_45,USD,1932,2025-05-10,2025-05-10,False,True
+38,Martin-Carrillo Pipe & Tube,us_la,57294944,NET_30,USD,5480,2025-05-10,2025-05-10,True,True
+39,Guzman-Wood Pipe & Tube,us_tx,41658004,NET_30,USD,3135,2025-05-10,2025-05-10,False,False
+40,Diaz-Smith Pipe & Tube,us_al,13838724,NET_45,USD,3553,2025-05-10,2025-05-10,True,True
+41,Harmon and Sons Pipe & Tube,us_al,84600430,NET_45,USD,2688,2025-05-10,2025-05-10,False,True
+42,Robinson PLC Pipe & Tube,us_ms,43548477,NET_45,USD,4515,2025-05-10,2025-05-10,True,False
+43,Smith-Fields Pipe & Tube,us_ms,33077595,NET_45,USD,2258,2025-05-10,2025-05-10,True,True
+44,Johnson PLC Pipe & Tube,us_tx,30059993,NET_45,USD,1184,2025-05-10,2025-05-10,True,True
+45,"Bailey, David and Nelson Pipe & Tube",us_la,71235805,NET_30,USD,2393,2025-05-10,2025-05-10,False,True
+46,Lowery and Sons Pipe & Tube,us_la,85106723,NET_30,USD,3447,2025-05-10,2025-05-10,False,True
+47,Thomas PLC Pipe & Tube,us_ms,13993861,NET_30,USD,4808,2025-05-10,2025-05-10,True,False
+48,Bernard Ltd Pipe & Tube,us_ms,60768209,NET_30,USD,4161,2025-05-10,2025-05-10,True,True
+49,Bates Inc Pipe & Tube,us_ms,82854574,NET_45,USD,5176,2025-05-10,2025-05-10,True,True
+50,Williams Group Pipe & Tube,us_tx,31070363,NET_30,USD,3954,2025-05-10,2025-05-10,True,True
